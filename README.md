@@ -12,3 +12,4 @@ https://www.youtube.com/watch?v=vfrEAz0BSbA&t=413s - canal Celke
 https://youtu.be/C7F4UBCjZEE - canal Aprendendo a codar
 
 Apos as tentativas de estudo at+e o projeto atual, nao consegui implementar o modal. Seguirei estudando para aprender e em breve fazer uma atualizaçao neste projeto.
+dificuldades para subir o projeto tambem, visto que o fiz sem conectar diretamente desde o inicio com o git.
