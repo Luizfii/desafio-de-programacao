@@ -1,0 +1,26 @@
+*{
+  position:relative;
+}
+
+body {
+ 
+  min-width: 100px;
+  font-family: sans-serif;
+}
+td{
+  box-sizing: content-box;
+}
+#btn{
+  cursor: pointer;
+  text-align: left;
+}
+
+#root{
+  min-width: 100px;
+  text-align: center;
+  
+}
+@keyframes animate {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
